@@ -3,6 +3,6 @@
     "optimize": "jampack ./site"
   },
   "dependencies": {
-    "@divriots/jampack": "^0.21.1"
+    "@divriots/jampack": "^0.23.3"
   }
 }
