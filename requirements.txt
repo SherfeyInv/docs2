@@ -3,3 +3,5 @@ pillow
 cairosvg
 mkdocs-git-committers-plugin-2
 mkdocs-redirects
+gitpython>=3.1.41 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
